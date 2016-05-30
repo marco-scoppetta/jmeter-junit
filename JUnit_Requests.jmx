@@ -205,7 +205,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">/Users/marcoscoppetta/Desktop/jmeter-pene.txt</stringProp>
+          <stringProp name="filename"></stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
